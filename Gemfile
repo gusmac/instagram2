@@ -72,3 +72,7 @@ group :development do
 end
 
 gem 'toastr-rails'
+gem 'carrierwave'
+gem 'cloudinary'
+gem 'figaro'
+gem 'dropzonejs-rails'
